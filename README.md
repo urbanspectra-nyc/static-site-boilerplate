@@ -31,6 +31,7 @@ Version 2
 - html tag list
 - css class list
 - bs4 or 5
+- footer ad
 - connect to fb group
 - google analytics
 
