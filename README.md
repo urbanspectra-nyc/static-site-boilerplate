@@ -36,9 +36,12 @@ Version 2
 #### Dev Languages + Templating Frameworks + Components + Themes
 
 | Dev Language | Templating Framework | Components | Theme |
-|--------------|----------------------|-------|
+|--------------|----------------------|------------|-------|
+| bash | heredoc | mustache |  |
 | ruby | jekyll | lone wolf | sitemap gists seo poly |
-
+| golang | hugo |  |  |
+| node | docusaurus |  |  |
+| php | twig |  |  |
 
 #### Local Dev Directory Structures
 ```
