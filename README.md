@@ -11,24 +11,11 @@
 - Page CRUD
 - Admin
 
-#### Local Dev Directory Structures
-
-#### Repo Directory Structure
-
-#### Project Directory Structure
-
 #### Repo Output Target Types
-- ghmd 
 - html 
+- ghmd 
 - yaml 
 - code
-
-#### Dev Languages + Templating Frameworks + Themes
-
-| Dev Language | Templating Framework | Theme |
-|--------------|----------------------|-------|
-| ruby | jekyll | lone wolf |
-
 
 #### Features
 Version 1
@@ -36,6 +23,39 @@ Version 1
 - svg
 - og
 - meta
+- custom footer include
+- translate
 
 Version 2
-- 
+- html tag list
+- css class list
+- bs4 or 5
+- connect to fb group
+- google analytics
+
+#### Dev Languages + Templating Frameworks + Components + Themes
+
+| Dev Language | Templating Framework | Components | Theme |
+|--------------|----------------------|-------|
+| ruby | jekyll | lone wolf | sitemap gists seo poly |
+
+
+#### Local Dev Directory Structures
+```
+$ mkdir -p
+$ tree
+$ ??
+ ```
+#### Repo Directory Structure
+```
+$ mkdir -p
+$ tree
+$ ??
+ ```
+
+#### Project Directory Structure
+```
+$ mkdir -p
+$ tree
+$ ??
+ ```
