@@ -20,10 +20,11 @@
 #### Features
 Version 1
 - favicon
-- svg
+- custom404
 - og
 - meta
 - custom footer include
+- svg
 - translate
 
 Version 2
