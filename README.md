@@ -45,6 +45,12 @@ Version 2
 | node | docusaurus |  |  |
 | php | twig |  |  |
 
+#### References
+- [linux tree](https://www.geeksforgeeks.org/tree-command-unixlinux/)
+- [git submodules + subtrees + template repos](https://martowen.com/2016/05/01/git-submodules-vs-git-subtrees/)
+- [visualize git history](https://github.com/google/git-tree)
+
+
 #### Local Dev Directory Structures
 ```
 $ mkdir -p
