@@ -11,7 +11,7 @@
 - Page CRUD
 - Admin
 
-#### Repo Output Target Types
+#### Output Target Media Types
 - html 
 - ghmd 
 - yaml 
