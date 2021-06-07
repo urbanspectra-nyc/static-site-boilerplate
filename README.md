@@ -35,7 +35,16 @@ Version 2
 - connect to fb group
 - google analytics
 
-#### Dev Languages + Templating Frameworks + Components + Themes
+#### Stability Ladder
+
+- brew (OR chroot OR vm OR docker OR gitpod)
+- brew bundle
+- gnu
+
+- langs: ruby php golang python node
+- package manager
+- dependency manager
+- etc
 
 | Dev Language | Templating Framework | Components | Theme |
 |--------------|----------------------|------------|-------|
